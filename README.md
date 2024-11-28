@@ -1,0 +1,2 @@
+# HappyTeachy-Front
+Frontend application
